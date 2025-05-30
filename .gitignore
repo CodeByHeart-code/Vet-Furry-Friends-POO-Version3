@@ -1,0 +1,5 @@
+**/__pycache__/
+*.pyc
+consultas.json
+mascotas_dueños.csv
+clinica_veterinaria.log
